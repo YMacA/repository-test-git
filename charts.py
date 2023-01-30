@@ -6,4 +6,5 @@ def generate_pie_chart():
     ax.pie(values, labels=labels)
     plt.savefig('pie.png')
     
-    plt.close()
+    plt.close() 
+#a
