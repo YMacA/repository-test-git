@@ -7,4 +7,4 @@ def generate_pie_chart():
     plt.savefig('pie.png')
     
     plt.close() 
-#a
+#a 
